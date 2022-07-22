@@ -14,8 +14,8 @@ All further information is retained until the server is deleted or until the bot
 
 How do we get the data?
 [__Discord API__](https://discord.com/developers/docs/intro)
-Commands via Discord
-News via Discord
+,Commands via Discord
+,News via Discord
 
 Which data are processed?
 The information stored is used to
