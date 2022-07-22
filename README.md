@@ -4,7 +4,7 @@ You will Get answer of all your question after Reading
                                  
 What data is stored?
 To facilitate use on Discord through caches
-server-side information and information from users are stored.
+,server-side information and information from users are stored.
 These are used to ensure functions and any authorizations.
 
 How long is the data stored?
