@@ -8,9 +8,7 @@ To facilitate use on Discord through caches
 These are used to ensure functions and any authorizations.
 
 How long is the data stored?
-If the "Log messages" function is activated on a server in the dashboard
-all messages from the Discord server will be stored on our server for 30 days and then automatically deleted.
-All further information is retained until the server is deleted or until the bot is removed from the server.
+All messages from the Discord server will be stored on our server for Till The Time You Are Using Our Bot and then automatically deleted when you kick the bot.
 
 How do we get the data?
 [__Discord API__](https://discord.com/developers/docs/intro)
