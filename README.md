@@ -13,7 +13,7 @@ Collection of data
 
 2. Data is only collected for providing services such as premium access. For this process only your user-id is stored to provide optimal experience
 
-3.Data is anonymously collected for analytic purposes. This means information such as when our bot got added to a server or command usages / errors.
+3. Data is anonymously collected for analytic purposes. This means information such as when our bot got added to a server or command usages / errors.
 We DO NOT connect this data to you as a user. This data is only used to optimize our services and advance the user experience.
 
 Distribution of data
