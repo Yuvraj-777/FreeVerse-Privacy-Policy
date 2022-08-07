@@ -4,7 +4,7 @@ You will Get answer of all your question after Reading
                                  
 Privacy Policy
 References
-In this whole document when being referred as "we" or "us", Rectangle Development as a whole is meant with everybody responsible.
+In this whole document when being referred as "we" or "us", Team Zero Development as a whole is meant with everybody responsible.
 When referring to "personal data", your discord user-id and other information accessible to every other discord user is meant as well as personal information you pass on via a command usages.
 
 
