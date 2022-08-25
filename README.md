@@ -23,4 +23,4 @@ Deletion of data
 All user-related data can be deleted by us on request in the support server linked Is Below.
 please Contact The Owner on [**__Bots Official Server__**](https://discord.com/invite/D6SFg5XHYu)
 
-Thanks
+
